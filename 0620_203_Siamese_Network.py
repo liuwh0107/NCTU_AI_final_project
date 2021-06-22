@@ -4,7 +4,6 @@
 # Model-> LSTM(Neural Network)
 # Reference ->  https://leemeng.tw/shortest-path-to-the-nlp-world-a-gentle-guide-of-natural-language-processing-and-deep-learning-for-everyone.html#%E4%B8%80%E5%80%8B%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%EF%BC%8C%E5%85%A9%E5%80%8B%E6%96%B0%E8%81%9E%E6%A8%99%E9%A1%8C
 
-
 from functools import total_ordering
 from os import remove
 import numpy as np
